@@ -41,8 +41,11 @@ function Fade() {
       </h1>
       
       <div className="pt-10">
+      <a href="https://youtube.com" target="_blank" rel="noopener">
+        
 
       <Button title="Book Now"  style='rounded-full px-5 py-3 text-sm md:text-2xl md:px-8 md:py-4 cursor-pointer bg-gradient-to-r from-purple-600 to-red-600 hover:text-black hover:bg-gradient-to-r hover:from-[#9023B5] hover:to-[#DE5235] text-white'/>
+      </a>
       </div>
       </div>
 
